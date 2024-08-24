@@ -1,5 +1,11 @@
 {
   "dependencies": {
     "firebase": "^10.13.0"
+  },
+  "scripts": {
+    "build": "gulp build"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.0"
   }
 }
