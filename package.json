@@ -1,7 +1,4 @@
 {
-  "dependencies": {
-    "firebase": "^10.13.0"
-  },
   "scripts": {
     "build": "webpack --mode production",
     "start": "webpack --mode development --watch"
